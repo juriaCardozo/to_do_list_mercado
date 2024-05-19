@@ -1,10 +1,10 @@
-# ToDoList Application 📝
+# ToDoList Application 📝🛒
 
 ## Descrição
 
 Este é um projeto de uma aplicação de lista de tarefas (ToDoList) desenvolvida em Spring Boot. Ele permite aos usuários adicionar, remover e marcar como concluídas as tarefas em sua lista. 
 
-Eu originalmente desenvolvi ele para que as pessoas que moram comigo possam contribuir em uma mesma lista de compras, assim utilizei uma conexão com o banco de dados Supabase e fiz o deploy da aplicação no site Render usando uma imagem com a aplicação que subi no DockerHub.😁
+Eu originalmente desenvolvi para que quem mora comigo possa contribuir em uma mesma lista de compras, assim utilizei uma conexão com o banco de dados Supabase e hospedei a aplicação no site Render usando uma imagem com a aplicação que subi no DockerHub.😁
 
 Agora a ideia é desenvolver um aplicativo apra consumir essa API e todos poderem visualizar a mesma lista.🤩
 
